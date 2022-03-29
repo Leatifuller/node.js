@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+       "username":"Tia",
+        "text":"Hello World"
+    },
+    {
+        "id":2,
+        "username": "Mia",
+        "text":"Awesome weatyher today!"
+    },
+    {
+        "id":3,
+        "username":"Bia",
+        "text":"Grand rising all!"
+    },
+    {
+        "id":4,
+        "username":"Ria",
+        "text":"Whats up"
+    },
+    {
+        "id":5,
+        "username":"Zia",
+        "text":"Its only up from here."
+    }
+]
